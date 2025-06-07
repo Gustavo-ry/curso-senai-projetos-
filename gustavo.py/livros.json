@@ -1,0 +1,38 @@
+[
+    {
+        "ISBN": "G",
+        "Titulo": "G",
+        "Autor": "G",
+        "Editora": "G",
+        "Páginas": "GGG",
+        "Ano": "GGG",
+        "Gênero": "GGG"
+    },
+    {
+        "ISBN": "",
+        "Titulo": "",
+        "Autor": "",
+        "Editora": "",
+        "Páginas": "",
+        "Ano": "",
+        "Gênero": ""
+    },
+    {
+        "ISBN": "G",
+        "Titulo": "G",
+        "Autor": "G",
+        "Editora": "G",
+        "Páginas": "GGG",
+        "Ano": "GGG",
+        "Gênero": "GGG"
+    },
+    {
+        "ISBN": "",
+        "Titulo": "",
+        "Autor": "",
+        "Editora": "",
+        "Páginas": "",
+        "Ano": "",
+        "Gênero": ""
+    }
+]

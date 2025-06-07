@@ -1,0 +1,24 @@
+[
+    {
+        "id": "gustavo",
+        "name": "gustavo ryan filgueira rodrigues",
+        "position": "engenheiro de software",
+        "dependents": [
+            {
+                "name": "julian alvares",
+                "relation": "cezar dias"
+            }
+        ]
+    },
+    {
+        "id": "559855",
+        "name": "hercules dos santos",
+        "position": "açougueiro",
+        "dependents": [
+            {
+                "name": "agua",
+                "relation": "suco"
+            }
+        ]
+    }
+]
